@@ -15,14 +15,14 @@ Determine which country has the highest total debt and the highest principal rep
 Find the most common debt indicator across countries and summarize major debt trends and insights from the dataset to support strategic analysis.
 
 ## Tools and Technology used: ##
-#### .) Postgres: 
+### .) Postgres: 
 Act as a  database management system used to conduct debt analysis and indicators.
-#### .) Query Language.
+### .) Query Language.
 The database management system uses the query language SQL (Structured Query Language) for retrieving and processing data through aggregation operations while filtering and performing analytical calculations.
-#### .) Dbeaver
+### .) Dbeaver
 For query execution and database administration
 
-## Key InsightsAnd Findings ##
+## Key Insights  ##
 1) The total debt held by all countries between 1970 and 2015 amounted to 2.82 trillion dollars.
 
   ![image](https://github.com/user-attachments/assets/d218b04a-d713-41be-99ec-8ad28f9e4844)
