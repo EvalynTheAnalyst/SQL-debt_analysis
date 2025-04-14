@@ -47,7 +47,6 @@ For query execution and database administration
    
    .) Bilateral = Country-to-country lending
    
-### 3.1 Unique debt indicators  are as below: ###
 #### a) Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)
  The amount paid back (principal only, not interest) on external debt borrowed by private companies without a government guarantee.
  
