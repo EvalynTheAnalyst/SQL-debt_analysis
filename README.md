@@ -31,7 +31,7 @@ For query execution and database administration
    
    ![image](https://github.com/user-attachments/assets/58d3e95d-a7fc-4fb3-a026-330213fc2407)
    
-3) ## Debt indicators
+3) #### Debt indicators ####
    
    ![image](https://github.com/user-attachments/assets/4bfa2b9f-ab9a-4e7d-aa84-c17a0850b7fa)
    
